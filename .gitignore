@@ -1,0 +1,4 @@
+build/
+build/release/
+test/reports/
+test/_pycache_
